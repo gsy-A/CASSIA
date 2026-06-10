@@ -34,9 +34,11 @@ All experiments of CASSIA in this study are conducted on Nvidia 5090 GPU. We sug
 ## Usage
 
 Run CASSIA on a single-cell ATAC-seq dataset
+
 python main.py
 Run CASSIA on a spatial ATAC-seq dataset
-python main_spatial.py 
+
+python main_spatial.py
 
 ## Arguments
 
