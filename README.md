@@ -38,4 +38,4 @@ Run CASSIA on a spatial ATAC-seq dataset
 python main_spatial.py 
 
 ## Output
-After running the command, the learned embeddings, predicted cell identities, and evaluation results will be saved in the specified output directory.
+After running the command, the learned embeddings and predicted cell identities will be saved in the specified output directory.
