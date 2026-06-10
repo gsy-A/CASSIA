@@ -6,6 +6,7 @@ Framework diagram
 <img width="4917" height="2616" alt="CASSIA" src="https://github.com/user-attachments/assets/86cc75e0-a479-4995-8361-92229a674ce2" />
 
 Dependencies
+
 Python 3.9.23
 
 Pytorch 2.8.0
