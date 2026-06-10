@@ -10,10 +10,10 @@ CASSIA (Chromatin Accessibility Semi-Supervised Identity-Aware representation le
 - [Output](#output)
 - [Citation](#citation)
 - 
-Framework diagram
+## Framework diagram
 <img width="4917" height="2616" alt="CASSIA" src="https://github.com/user-attachments/assets/86cc75e0-a479-4995-8361-92229a674ce2" />
 
-Dependencies
+## Dependencies
 
 Python 3.9.23
 
@@ -31,7 +31,7 @@ Pandas 2.3.3
 
 All experiments of CASSIA in this study are conducted on Nvidia 5090 GPU. We suggest to install the dependencies in a conda environment (conda create -n CASSIA).
 
-Usage
+## Usage
 
 Run CASSIA on a single-cell ATAC-seq dataset
 python main.py
