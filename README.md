@@ -1,5 +1,3 @@
-<img width="4917" height="2616" alt="CASSIA" src="https://github.com/user-attachments/assets/dcb8b417-b3ec-40b6-9a2a-d5e532c05629" /># CASSIA
-
 CASSIA (Chromatin Accessibility Semi-Supervised Identity-Aware representation learning), a label-guided regulatory representation learning framework for single-cell and spatial ATAC-seq data. For single-cell ATAC-seq, CASSIA uses limited high-confidence biological anchors to guide the learning of accessibility representations that better separate regulatory cell states while preserving data-driven discovery. For spatial ATAC-seq, CASSIA further incorporates spatial neighborhood information to encourage locally coherent regulatory domains in tissue space.
 
 Framework diagram
