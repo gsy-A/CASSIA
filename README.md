@@ -10,7 +10,7 @@ CASSIA (Chromatin Accessibility Semi-Supervised Identity-Aware representation le
 - [Output](#output)
 - [Citation](#citation)
 - 
-# Framework diagram
+Framework diagram
 <img width="4917" height="2616" alt="CASSIA" src="https://github.com/user-attachments/assets/86cc75e0-a479-4995-8361-92229a674ce2" />
 
 Dependencies
