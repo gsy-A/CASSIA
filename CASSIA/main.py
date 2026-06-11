@@ -88,7 +88,6 @@ if __name__ == "__main__":
     )
 
     weight_dir = os.path.dirname(args.ae_weight_file)
-    print(weight_dir)
     if weight_dir and not os.path.exists(weight_dir):
         os.makedirs(weight_dir)
     
